@@ -1,4 +1,4 @@
-# Constable
+#KRANKIN Constable
 
 **Constable is part of the [thoughtbot Elixir family][elixir-phoenix] of projects.**
 
